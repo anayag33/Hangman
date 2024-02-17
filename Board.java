@@ -1,5 +1,6 @@
 package com.company;
 
+//BOARD CLASS
 public class Board {
     static int wrongAnswers;
 
